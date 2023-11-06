@@ -13,7 +13,7 @@ Implemented a Graph class that solves various graph-related problems including:
 
 **Hard Problems:**
 
-- [Forest](https://www.infoarena.ro/problema/padure)
+- [Padure](https://www.infoarena.ro/problema/padure)
 - [Codeforces Contest 1144 Problem F](https://codeforces.com/contest/1144/problem/F)
 - [Patrol2](https://www.infoarena.ro/problema/patrol2)
 - [Codeforces Contest 1881 Problem F](https://codeforces.com/contest/1881/problem/F)
